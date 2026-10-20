@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# If someone runs ./install.sh --project from inside a clone, keep it out of git
+.claude/
